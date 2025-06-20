@@ -10,7 +10,7 @@ Este es mi espacio para compartir proyectos personales, retos de visualización,
 
 - **Python**: pandas, matplotlib, Jupyter
 - **SQL**: PostgreSQL, MySQL
-- **Power BI**: dashboards, KPIs, segmentaciones
+- **Power BI**: dashboards, segmentaciones
 - **Excel** y herramientas de visualización
 
 ---
